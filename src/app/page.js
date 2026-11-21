@@ -323,7 +323,7 @@ export default function Home() {
     </a>
 
     <a
-      href="https://www.linkedin.com/"
+      href="https://www.linkedin.com/in/sudarshini-gowda-17a493384"
       target="_blank"
       rel="noreferrer"
       aria-label="LinkedIn"
